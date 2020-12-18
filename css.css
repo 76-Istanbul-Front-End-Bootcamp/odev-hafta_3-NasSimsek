@@ -1,0 +1,21 @@
+/* .mystyle {
+  color: red;
+}
+
+.demoid :hover{
+  color: blue
+} */
+.hov:hover {
+  background: green;
+  color: white;
+}
+img {
+  width: 45%;
+  height: 45%;
+
+
+/* #demoid  {
+
+  background: rgb(38, 92, 38);
+  color: white;
+} */
